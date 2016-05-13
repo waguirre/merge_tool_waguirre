@@ -1,9 +1,7 @@
 # merge_tool_waguirre
 3
 
-543543
-fwe
-sdf
-sdf
-sdf
-sdf
+AZABACHE
+TINTO
+FIRO
+TOBY
